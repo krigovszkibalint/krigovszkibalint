@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+My name's Krigovszki Bálint, I'm 23 years old and I’m currently working on my Computer Science degree at EKKE (Eszterházy Károly Katolikus Egyetem)
 
-I’m currently working on my Computer Science degree at EKKE (Eszterházy Károly Katolikus Egyetem)
-
-📫 How to reach me:
+### 📫 How to reach me:
 - Discord: krigovszki.balint#1060
 - E-mail: krigovszki.balint@gmail.com
 
@@ -22,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=krigovszkibalint&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Languages and Frameworks I have experience with:

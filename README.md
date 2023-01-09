@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krigovszkibalint&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krigovszkibalint&show_icons=true&theme=tokyonight )
 
 ## 💻 Languages and Frameworks I have experience with:
 

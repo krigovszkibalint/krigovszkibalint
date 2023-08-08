@@ -1,9 +1,10 @@
 ## Hi there 👋
-My name's Krigovszki Bálint, I'm 24 years old and I’m currently working on my Computer Science degree at EKKE (Eszterházy Károly Katolikus Egyetem)
+My name's Krigovszki Bálint, I'm 24 years old and I got my Computer Science BSc degree at EKKE (Eszterházy Károly Katolikus Egyetem) in 2023.
 
 ### 📫 How to reach me:
 - Discord: krigovszki.balint#1060
 - E-mail: krigovszki.balint@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/b%C3%A1lint-krigovszki-56840a158/)
 
 Most of my repositories contain university projects and assignments but you can find other stuff among them as well.
 

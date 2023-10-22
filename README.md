@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name's Krigovszki Bálint, I'm 24 years old and I got my Computer Science BSc degree at EKKE (Eszterházy Károly Katolikus Egyetem) in 2023.
+My name's Krigovszki Bálint, I'm 25 years old and I got my Computer Science BSc degree at EKKE (Eszterházy Károly Katolikus Egyetem) in 2023.
 
 ### 📫 How to reach me:
 - Discord: krigovszki.balint#1060
